@@ -12,3 +12,5 @@ Stripe.php - Stripe Class
 stripe.php - Payment Processing
 
 stripe-field.php - Elementor Form Rendering
+
+Projcet done in colaboration with SXSFUL (https://sxsful.com).
