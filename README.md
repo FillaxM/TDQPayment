@@ -7,3 +7,6 @@ Payment of €10/£10 per person (depending on location) on https://tdqsteaks.co
 
 Modification of already existing plugin to add Stripe API payment.
 
+Stripe.php - Stripe Class
+stripe.php - Payment Processing
+stripe-field.php - Elementor Form Rendering
